@@ -3,5 +3,5 @@ Este repositório se refere aos laboratórios presente no curso [Formação Micr
 
 ## Laboratórios
 
-1. [Localizando Serviços Por Categoria]()
+1. [Localizando Serviços Por Categoria](https://github.com/Xang0/Microsoft_AZ900_DIO/blob/main/Lab1.md)
 
