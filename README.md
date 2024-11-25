@@ -5,3 +5,4 @@ Este repositório se refere aos laboratórios presente no curso [Formação Micr
 
 1. [Localizando Serviços Por Categoria](https://github.com/Xang0/Microsoft_AZ900_DIO/blob/main/Lab1.md)
 2. [Criando Máquinas Virtuais no Azure](https://github.com/Xang0/Microsoft_AZ900_DIO/blob/main/Lab2.md)
+3. [Configurando uma Instância de Banco de Dados na Azure](https://github.com/Xang0/Microsoft_AZ900_DIO/blob/main/Lab3.md)
